@@ -1,0 +1,16 @@
+
+
+
+
+@font-face {
+    font-family: 'typograph_proultralight';
+    src: url('typograph_pro_ultra_light-webfont.eot');
+    src: url('typograph_pro_ultra_light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('typograph_pro_ultra_light-webfont.woff2') format('woff2'),
+         url('typograph_pro_ultra_light-webfont.woff') format('woff'),
+         url('typograph_pro_ultra_light-webfont.ttf') format('truetype'),
+         url('typograph_pro_ultra_light-webfont.svg#typograph_proultralight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
